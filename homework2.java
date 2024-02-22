@@ -48,7 +48,7 @@ public class homework2 {
 }
 //TODO:在此处编写作业所需的类，并在主类中测试这些类
 //注意相互间的继承关系
-class Book
+class Book{
     private String name ;
     private String author;
     private String time ;
