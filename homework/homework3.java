@@ -1,4 +1,4 @@
-import com.sun.xml.internal.ws.api.model.wsdl.WSDLOutput;
+package homework;
 
 import java.util.Scanner;
 
@@ -155,7 +155,7 @@ abstract class Employee {
     abstract void earnings();
     @Override
     public String toString() {
-        return "Employee{" +
+        return "homework.Employee{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
                 ", birthday=" + birthday +
@@ -176,7 +176,7 @@ class Mydate {
 
     @Override
     public String toString() {
-        return "Mydate{" +
+        return "homework.Mydate{" +
                 "year=" + year +
                 ", month=" + month +
                 ", day=" + day +
