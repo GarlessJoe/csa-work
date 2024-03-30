@@ -1,4 +1,4 @@
-package homework;
+package homework._05;
 
 import com.mysql.cj.jdbc.Driver;
 
@@ -69,4 +69,5 @@ public class homework05 {
 
 
     }
+
 }
